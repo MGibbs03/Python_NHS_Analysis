@@ -11,3 +11,6 @@ File: `data/nhs_waiting_lists.csv`
 2. Sort by `total_waiting_list` in descending order.
 3. Select the top 3 rows.
 4. Display organisation name and total waiting list.
+
+## Visual
+![screenshot](wait-list.png)
