@@ -1,4 +1,4 @@
-# Extracting Waiting Times from Free‑Text Messages
+# Extracting Waiting Times from Text-based Messages
 
 ## Problem
 Patients sometimes describe waiting times in free‑text. We need to extract all mentions of waiting time **in weeks** from a collection of messages.
