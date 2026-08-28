@@ -8,3 +8,6 @@ A list of messages from patients (provided below).
 
 ## Method
 Use Python's `re` module with a regular expression that finds a number (1‑2 digits) followed by the word "weeks".
+
+## Visual
+![screenshot](wait.png)
