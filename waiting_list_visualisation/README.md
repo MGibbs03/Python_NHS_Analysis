@@ -11,3 +11,6 @@ Create a scatter plot with `total_waiting_list` on the x‑axis and `up_to_18_we
 
 ## Findings
 A strong positive correlation exists – larger waiting lists are associated with more patients achieving the 18‑week standard. No extreme outliers.
+
+## Visual
+![screenshot](Scatter.png)
