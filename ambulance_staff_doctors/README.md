@@ -16,4 +16,5 @@ File: `data/nhs_staffing_info.csv`
 ## Interpretation
 The result shows whether ambulance‑staffed organisations tend to be larger (more doctors) or not.
 
+## Visual
 ![screenshot](Staff.png)
