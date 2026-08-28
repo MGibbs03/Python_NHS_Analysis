@@ -14,7 +14,7 @@ File: `data/nhs_staffing_info.csv`
 3. Compute the mean of `doctors` for each group.
 
 ## Interpretation
-The result shows whether ambulance‑staffed organisations tend to be larger (more doctors) or not.
+The results shows whether ambulance‑staffed organisations employ more doctors (on average).
 
 ## Visual
 ![screenshot](Staff.png)
